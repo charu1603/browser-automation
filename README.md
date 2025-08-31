@@ -3,6 +3,11 @@
 This project is an AI-powered browser automation agent built with **Node.js**, **Express**, **Puppeteer**, and **Google Gemini AI**.  
 The agent can read a natural language prompt, convert it into browser actions, and execute them like a human on a website.
 
+
+
+https://github.com/user-attachments/assets/fb421b5c-21c7-4970-9d85-27f632ab1723
+
+
 ---
 
 ## Features
